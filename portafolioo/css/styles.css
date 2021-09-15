@@ -1,0 +1,18 @@
+.header_letra{
+    color: white;
+}
+.img_tm{
+    height: 450px;
+}
+
+.ancho{
+    min-width: 500px;
+    max-height: 450px;
+}
+.trans{
+    background:rgba(255, 255, 255, 0.1);
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+}
